@@ -2,9 +2,15 @@
 Firmware: **ATS_MINI**
 
 Latest version: **v1.01**
+Version history: [Select Link](https://github.com/G8PTN/ATS_MINI/blob/main/FIRMWARE/Version_History.md) 
 
-IMPORTANT - [Select Link](https://github.com/G8PTN/ATS_MINI/issues/4#issue-2891115063)
+## IMPORTANT
 
+Flash backup: [Select Link](https://github.com/G8PTN/ATS_MINI/issues/4#issuecomment-2766935421)
+
+ESP32-S3 and compile options: [Select Link](https://github.com/G8PTN/ATS_MINI/issues/4#issue-2891115063)
+
+## Summary
 This firmware is for use on the SI4732 (ESP32-S3) Mini/Pocket Receiver.
 Based on the following sources.
 - Ralph Xavier: https://github.com/ralphxavier/SI4735
