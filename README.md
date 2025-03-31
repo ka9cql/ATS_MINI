@@ -2,6 +2,7 @@
 Firmware: **ATS_MINI**
 
 Latest version: **v1.01**
+
 Version history: [Select Link](https://github.com/G8PTN/ATS_MINI/blob/main/FIRMWARE/Version_History.md) 
 
 ## IMPORTANT
